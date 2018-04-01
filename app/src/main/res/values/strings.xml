@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppMaster</string>
+    <string-array name="categorias">
+        <item>Desenvolvimento</item>
+        <item>Designer</item>
+        <item>Redes</item>
+        <item>Hardware</item>
+        <item>Linux</item>
+        <item>Mac</item>
+        <item>Android</item>
+        <item>Ios</item>
+    </string-array>
+</resources>
